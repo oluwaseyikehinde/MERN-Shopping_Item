@@ -22,5 +22,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluwaseyikehinde/MERN-Shopping_Item.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oluwaseyikehinde/MERN-Shopping_Item/issues"
+  },
+  "homepage": "https://github.com/oluwaseyikehinde/MERN-Shopping_Item#readme"
 }
